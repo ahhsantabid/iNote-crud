@@ -1,3 +1,3 @@
-# iNote-crud
-https://ahhsantabid.github.io/iNote-crud/
+# iNote-crud-oparation
+https://ahhsantabid.github.io/iNote-crud-oparation/
 
